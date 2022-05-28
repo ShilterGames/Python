@@ -1,0 +1,5 @@
+a = [ input(), input(), input() ]
+
+a.sort (key = len)
+
+print(a[0], a[-1])

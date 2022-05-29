@@ -1,0 +1,5 @@
+r = 1
+n = 750
+for i in range(r, n+1):
+    n += i 
+print (n // 750)

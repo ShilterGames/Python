@@ -1,0 +1,14 @@
+x = int(input())
+t = -1
+r = 1
+y = 0
+if t > x:
+    y = t
+    print (y)
+elif x > t:
+    y = x
+    print (y)
+else:
+    if x == t:
+        print (1)
+    
